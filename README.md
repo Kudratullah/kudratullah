@@ -17,10 +17,10 @@ I work at the intersection of **product engineering**, **backend architecture**,
 
 Over the years, I’ve worked across:
 
-- large WordPress plugins and theme ecosystems
-- custom billing and licensing systems
+- Large WordPress plugins and theme ecosystems
+- Custom billing and licensing systems
 - eCommerce platforms and payment integrations
-- distributed monitoring and automation systems
+- Distributed monitoring and automation systems
 - React-based dashboards and admin experiences
 - VPS/server management, deployment pipelines, and production debugging
 
@@ -40,27 +40,27 @@ I’m especially comfortable stepping into messy or high-pressure situations, im
 At Kodezen, I helped lead the development of a digital-product-focused eCommerce solution for WordPress.
 
 Highlights:
-- helped recover a stalled 2.5-year project and deliver a production-ready MVP within 4 months
-- designed a scalable licensing system with activation, validation, deactivation, and analytics APIs
-- built a reusable PHP SDK for WordPress products to integrate with licensing and telemetry flows
-- contributed to modular plugin architecture, subscriptions, installment payments, bundled products, and analytics integrations
+- Helped recover a stalled 2.5-year project and deliver a production-ready MVP within 4 months
+- Designed a scalable licensing system with activation, validation, deactivation, and analytics APIs
+- Built a reusable PHP SDK for WordPress products to integrate with licensing and telemetry flows
+- Contributed to modular plugin architecture, subscriptions, installment payments, bundled products, and analytics integrations
 
 ### UptimeMonster
 Built and owned an end-to-end monitoring platform featuring:
 
 - Node.js workers for large-scale uptime and endpoint monitoring
 - Python-based agents for distributed server monitoring
-- real-time alerts and operational visibility
+- Real-time alerts and operational visibility
 - React-based status and reporting interfaces
 
 ### Product & Platform Engineering
 Across different roles, I’ve also worked on:
 
 - WooCommerce-based internal billing systems
-- multi-PayPal payment routing extensions
-- location-aware service platforms using Google Maps and geolocation APIs
+- Multi-PayPal payment routing extensions
+- Location-aware service platforms using Google Maps and geolocation APIs
 - Web3 and crypto payment integrations
-- custom WordPress importers, theme systems, and admin tools
+- Custom WordPress importers, theme systems, and admin tools
 
 ## Tech Stack
 
@@ -86,17 +86,17 @@ Across different roles, I’ve also worked on:
 
 ## What You'll Find on My GitHub
 
-- practical engineering work and experiments
+- Practical engineering work and experiments
 - WordPress, PHP, and JavaScript-focused projects
-- frontend and product prototypes
-- tooling and ideas shaped by real production problems
+- Frontend and product prototypes
+- Tooling and ideas shaped by real production problems
 
 ## Current Focus
 
-- building maintainable product architecture
-- modernizing legacy WordPress/PHP systems
-- shipping better developer workflows
-- using AI tools to improve engineering speed without compromising quality
+- Building maintainable product architecture
+- Modernizing legacy WordPress/PHP systems
+- Shipping better developer workflows
+- Using AI tools to improve engineering speed without compromising quality
 
 ## Let's Connect
 
